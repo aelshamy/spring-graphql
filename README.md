@@ -1,1 +1,1 @@
-# srping-graphql
+# spring-graphql
